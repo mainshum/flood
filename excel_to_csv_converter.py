@@ -16,6 +16,13 @@ def convert_excel_to_csv(input_folder: str, output_folder: str):
                 # Get full path of Excel file
                 excel_path = os.path.join(root, file)
                 
+                # Calculate relative path from input folder
+                rel_path = os.path.relpath(root, input_folder)
+                
+                # Create corresponding output directory
+                output_dir = os.path.join(output_folder, rel_path)
+                os.makedirs(output_dir, exist_ok=True)
+                
                 # Read all sheets from Excel file
                 excel_file = pd.ExcelFile(excel_path)
                 
@@ -26,7 +33,7 @@ def convert_excel_to_csv(input_folder: str, output_folder: str):
                     
                     # Create CSV filename
                     csv_filename = f"{Path(file).stem}_{sheet_name}.csv"
-                    csv_path = os.path.join(output_folder, csv_filename)
+                    csv_path = os.path.join(output_dir, csv_filename)
                     
                     # Save as CSV
                     df.to_csv(csv_path, index=False)
