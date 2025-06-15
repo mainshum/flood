@@ -1,2 +1,6 @@
 .DS_Store
 dest/
+*.log
+**/__pycache__/
+results/
+source/
