@@ -28,7 +28,6 @@ class BaseFloodProcessor:
         """
         if pd.isna(date_value):
             return None
-            
         try:
             if isinstance(date_value, str):
                 # Try different date formats

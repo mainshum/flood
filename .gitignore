@@ -3,4 +3,9 @@ dest/
 *.log
 **/__pycache__/
 results/
-source/
+source/**/*.xlsx
+source/**/*.pdf
+source/**/*.csv
+source/**/*.docx
+source/**/*.zip
+source/**/*.xlsb
