@@ -64,7 +64,7 @@ class BaseFloodProcessor:
             'county': kwargs.get('county')
         }
 
-    def add_record(self, incident_date, incident_type, location):
+    def add_record(self, incident_date: str, incident_type: str, location: Dict) -> None:
         """Add a standardized record to the data list."""
         record = {
             'company': self.company_name,
