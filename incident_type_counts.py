@@ -21,6 +21,7 @@ def concatenate_parquet_files():
     dfs = []
     for file in parquet_files:
         df_temp = pd.read_parquet(file)
+        df_temp['company'] = file.stem.split('_')[0]
         dfs.append(df_temp)
     
     df = pd.concat(dfs, ignore_index=True)
@@ -45,7 +46,7 @@ def main():
             sys.exit(1)
         
         # Generate incident type counts
-        incident_counts = df['incident_type'].value_counts()
+        incident_counts = df.groupby(['company', 'incident_type']).size().reset_index(name='count')
         
         # Create a formatted table
         print("=== INCIDENT TYPE COUNTS ===")
@@ -55,9 +56,9 @@ def main():
         
         # Create a DataFrame for better formatting
         counts_df = pd.DataFrame({
-            'Incident Type': incident_counts.index,
-            'Count': incident_counts.values,
-            'Percentage': (incident_counts.values / len(df) * 100).round(2)
+            'Company': incident_counts['company'],
+            'Incident Type': incident_counts['incident_type'],
+            'Count': incident_counts['count']
         })
         
         # Display the table
