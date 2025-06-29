@@ -1,0 +1,304 @@
+Incident Type,Count,Percentage
+Blockage,161155,19.65
+Sewer Water (foul/surface/combined) - EXT - Curtilage,88657,10.81
+Sewer - External - Other Cause,56476,6.89
+External - NWL - FOC,51538,6.28
+C Flooding External - Inside Boundary - blocked,34222,4.17
+External - Non NWL,33151,4.04
+Non Sewer - INT - Curtilage,30502,3.72
+Sewer Water (foul/surface/combined) - EXT - Non Curtilage,27113,3.31
+External,26131,3.19
+Blockage paper rag,22656,2.76
+Sewer Water (foul/surface/combined) - INT - Curtilage,21951,2.68
+Non Sewer - EXT - Curtilage,21082,2.57
+D Flooding External - Outside Boundary - blocked,17494,2.13
+External - UU Responsibility,14194,1.73
+Internal - Non NWL,10562,1.29
+Sewer - Internal - Other Cause,8790,1.07
+Storm,8706,1.06
+Blockage - Type 3 - Sub-type 4,8702,1.06
+Collapse,6904,0.84
+Blockage non sewage debris,6704,0.82
+External Flood - UU Responsibility,6347,0.77
+Curtilage Flood - Private - Not UU,6252,0.76
+Internal - NWL - FOC,5587,0.68
+Overloaded,5543,0.68
+EXTERNAL - OTHER CAUSES,5442,0.66
+Non Sewer - EXT - Non Curtilage,5358,0.65
+Sewer - External - Hydraulic,5284,0.64
+Internal,4664,0.57
+External - Private - Not UU,4411,0.54
+External - NWL - Overloaded Sewers,4302,0.52
+Sewer - Internal - Hydraulic,4235,0.52
+Pumping Station Failure,4227,0.52
+Hydraulic overload,3832,0.47
+Internal - UU Responsibility,3514,0.43
+EXTERNAL - NON UU,3509,0.43
+Internal - NWL - Overloaded Sewers,3305,0.4
+C Flooding External - Inside Boundary - inadequate hydraulic capacity,3252,0.4
+Blockage fat,3074,0.37
+Blockage Paper/Rag,2982,0.36
+Blockage roots,2764,0.34
+Equipment failure,2650,0.32
+Blockage - Type 3 - Sub-type 10,2408,0.29
+RAINFALL,2356,0.29
+B Flooding Internal - blocked,2246,0.27
+Internal Flood - Private - Not UU,2152,0.26
+Sewer condition,2052,0.25
+Clean Water - INT - Curtilage,1794,0.22
+D Flooding External - Outside Boundary - inadequate hydraulic capacity,1744,0.21
+Partial collapse,1689,0.21
+DUE TO RAG,1662,0.2
+UNKNOWN,1549,0.19
+Equipment Failure,1441,0.18
+NHH Flooding Ext. - Outside Boundary - blocked,1361,0.17
+Blockage - Type 3 - Sub-type 8,1321,0.16
+NHH Flooding Ext. - Inside Boundary - blocked,1246,0.15
+INTERNAL - NON UU,1221,0.15
+C Flooding External - Inside Boundary - other,1040,0.13
+Clean Water - EXT - Non Curtilage,979,0.12
+INTERNAL - OTHER CAUSES,892,0.11
+Unknown at this time,862,0.11
+Collapse/burst,840,0.1
+C Flooding External - Inside Boundary - Other,803,0.1
+D Flooding External - Outside Boundary - Other,722,0.09
+D Flooding External - Outside Boundary - other,700,0.09
+Clean Water - EXT - Curtilage,696,0.08
+Blockage silt,667,0.08
+Overloaded - Type 3 - Sub-type 4,660,0.08
+B Flooding Internal - inadequate hydraulic capacity,635,0.08
+DUE TO - OTHER,618,0.08
+External Flood - Private - Not UU,541,0.07
+Blockage - Roots,534,0.07
+Hydraulic Overload,518,0.06
+DUE TO - FAT,509,0.06
+DEFECTIVE CONNECTION,459,0.06
+NHH Flooding Internal - blocked,428,0.05
+SILTATION,407,0.05
+Blockage - Type 1 - Sub-type 1,394,0.05
+EXTERNAL - HYDRAULIC OVERLOAD,356,0.04
+C Flooding External - Inside Boundary - Inadequate Capacity,347,0.04
+Blockage - Fat,316,0.04
+Pumping Station Failure - Type 3 - Sub-type 4,291,0.04
+Suspected collapse,282,0.03
+B Flooding Internal - Jetting,278,0.03
+ROOTS,251,0.03
+Collapse - Type 3 - Sub-type 4,251,0.03
+Blockage - Type 3 - Sub-type 9,245,0.03
+Blockage - Type 3 - Sub-type 6,242,0.03
+Pump station breakdown,229,0.03
+Blockage due to 3rd party,223,0.03
+D Flooding External - Outside Boundary - Inadequate Capacity,218,0.03
+Collapse/Burst-Sewerage,212,0.03
+Hydraulically overloaded pumping station,204,0.02
+B Flooding Internal - Other,201,0.02
+NOT APPLICABLE,185,0.02
+INTERNAL - HYDRAULIC OVERLOAD,173,0.02
+D Flooding External - Outside Boundary - burst,168,0.02
+Blockage - Type 3 - Sub-type 7,153,0.02
+Blockage - Type 1 - Sub-type 3,137,0.02
+Pumping Station Failure - Type 3 - Sub-type 10,121,0.01
+NHH Flooding Ext. - Inside Boundary - inadequate hydraulic capacity,120,0.01
+Overloaded - Type 3 - Sub-type 10,120,0.01
+Blockage - Type 2 - Sub-type 3,109,0.01
+Overloaded - Type 1 - Sub-type 1,108,0.01
+Equipment Failure - Type 3 - Sub-type 4,107,0.01
+Collapse - Type 3 - Sub-type 10,107,0.01
+B Flooding Internal - other,105,0.01
+Non Household Flooding Ext. - Inside Boundary - blocked,103,0.01
+Blockage - Type 2 - Sub-type 1,89,0.01
+NHH Flooding Ext. - Outside Boundary - inadequate hydraulic capacity,82,0.01
+Equipment Failure - Type 1 - Sub-type 1,81,0.01
+Collapse - Type 3 - Sub-type 9,79,0.01
+Collapse - Type 3 - Sub-type 8,78,0.01
+D Flooding External - Outside Boundary - pump failure,78,0.01
+Partial Collapse-Sewerage,74,0.01
+C Flooding External - Inside Boundary - pump failure,74,0.01
+Pumping Station Failure - Type 3 - Sub-type 8,71,0.01
+Blockage - Silt,68,0.01
+Overloaded - Type 3 - Sub-type 8,64,0.01
+C Flooding External - Inside Boundary - burst,62,0.01
+Equipment Failure - Type 3 - Sub-type 10,60,0.01
+NHH Flooding Ext. - Outside Boundary - Other,58,0.01
+Equipment Failure - Type 3 - Sub-type 8,57,0.01
+Pump station blockage,55,0.01
+Plant failure,55,0.01
+Power failure,54,0.01
+Equipment Failure - Type 3 - Sub-type 9,48,0.01
+Blockage - Type 3 - Sub-type 5,48,0.01
+Third party damage,44,0.01
+POOR DESIGN / INSTALLATION,44,0.01
+Collapse due to 3rd party,42,0.01
+Non Household Flooding Internal - blocked,42,0.01
+NHH Flooding Ext. - Inside Boundary - other,42,0.01
+D Flooding External - Outside Boundary - Jetting,41,0.0
+C Flooding External - Inside Boundary - Jetting,41,0.0
+Blockage - Type 1 - Sub-type 2,38,0.0
+THIRD PARTY DAMAGE,38,0.0
+NHH Flooding Ext. - Outside Boundary - other,34,0.0
+Collapse - Type 1 - Sub-type 1,34,0.0
+Communal External Flood - Private - Not UU,33,0.0
+Pumping Station Failure due to 3rd party,31,0.0
+C Flooding External - Inside Boundary - damaged,30,0.0
+C Flooding External - Inside Boundary - power failure,30,0.0
+Pumping Station Failure - Type 1 - Sub-type 1,28,0.0
+Blockage due to 3rd party - Type 3 - Sub-type 4,28,0.0
+Equipment failure due to 3rd Party,28,0.0
+B Flooding Internal - Inadequate Capacity,27,0.0
+Suspected Hydraulic Overload,26,0.0
+NHH Flooding Internal - other,26,0.0
+Non Household Flooding Ext. - Inside Boundary - inadequate hydraulic capacity,25,0.0
+D Flooding External - Outside Boundary - damaged,22,0.0
+NHH Flooding Ext. - Inside Boundary - Other,22,0.0
+B Flooding Internal - pump failure,19,0.0
+Pumping Station Failure - Type 3 - Sub-type 9,17,0.0
+NHH Flooding Internal - inadequate hydraulic capacity,16,0.0
+Pumping Station Failure - Type 3 - Sub-type 6,16,0.0
+Collapse - Type 3 - Sub-type 6,15,0.0
+Overloaded - Type 3 - Sub-type 9,15,0.0
+Planned Work,14,0.0
+D Flooding External - Outside Boundary - pipework failure,14,0.0
+Unknown But Not Public,14,0.0
+Overloaded - Type 3 - Sub-type 6,14,0.0
+Collapse due to 3rd party - Type 3 - Sub-type 4,14,0.0
+Pump Station Breakdown,14,0.0
+D Flooding External - Outside Boundary - level control failure,14,0.0
+C Flooding External - Inside Boundary - level control failure,14,0.0
+D Flooding External - Outside Boundary - air valve fault,14,0.0
+Equipment Failure - Type 3 - Sub-type 6,13,0.0
+NHH Flooding Ext. - Outside Boundary - burst,13,0.0
+Manhole cover,13,0.0
+Overloaded - Type 2 - Sub-type 1,12,0.0
+Hydraulic Overload Pumping Station,12,0.0
+Third Party Damage,12,0.0
+C Flooding External - Inside Boundary - displaced,11,0.0
+Overloaded - Type 1 - Sub-type 3,11,0.0
+Collapse - Type 1 - Sub-type 3,11,0.0
+INCORRECT OPERATION,10,0.0
+Collapse - Type 3 - Sub-type 7,10,0.0
+D Flooding External - Outside Boundary - power failure,10,0.0
+Pumping Station Failure - Type 3 - Sub-type 7,9,0.0
+NHH Flooding Ext. - Outside Boundary - Inadequate Capacity,9,0.0
+Blockage - Type 2 - Sub-type 2,9,0.0
+Blockage due to 3rd party - Type 3 - Sub-type 10,9,0.0
+Overloaded - Type 2 - Sub-type 3,9,0.0
+C Flooding External - Inside Boundary - pipework failure,9,0.0
+D Flooding External - Outside Boundary - displaced,9,0.0
+B Flooding Internal - burst,9,0.0
+C Flooding External - Inside Boundary - screen blinded,8,0.0
+C Flooding External - Inside Boundary - flap missing,8,0.0
+Overloaded - Type 3 - Sub-type 7,8,0.0
+Collapse - Type 2 - Sub-type 3,8,0.0
+NHH Flooding Ext. - Inside Boundary - Inadequate Capacity,7,0.0
+NHH Flooding Ext. - Outside Boundary - pump failure,7,0.0
+TIDE LOCKED,7,0.0
+B Flooding Internal - power failure,7,0.0
+C Flooding External - Inside Boundary - seal missing/perished,7,0.0
+Unknown,7,0.0
+Equipment Failure - Type 1 - Sub-type 3,7,0.0
+Collapse - Type 1 - Sub-type 2,7,0.0
+D Flooding External - Outside Boundary - Inlet blocked,7,0.0
+WORN,6,0.0
+D Flooding External - Outside Boundary - outfall blocked,6,0.0
+Collapse due to 3rd party - Type 3 - Sub-type 10,6,0.0
+B Flooding Internal - defective channel,6,0.0
+NHH Flooding Internal - Jetting,6,0.0
+C Flooding External - Inside Boundary - defective benching,6,0.0
+D Flooding External - Outside Boundary - defective brickwork,6,0.0
+D Flooding External - Outside Boundary - inlet pumping station,5,0.0
+Nothing found,5,0.0
+Collapse - Type 2 - Sub-type 1,5,0.0
+Blockage due to 3rd party - Type 3 - Sub-type 8,5,0.0
+NHH Flooding Ext. - Inside Boundary - pump failure,4,0.0
+Damaged Cover,4,0.0
+Water Burst/Leak,4,0.0
+D Flooding External - Outside Boundary - nrv failure,4,0.0
+Suspected Collapse,4,0.0
+Equipment Failure - Type 3 - Sub-type 7,4,0.0
+NHH Flooding Ext. - Outside Boundary - Jetting,4,0.0
+Overloaded - Type 1 - Sub-type 2,4,0.0
+C Flooding External - Inside Boundary - defective brickwork,4,0.0
+Pumping Station Failure - Type 2 - Sub-type 3,4,0.0
+C Flooding External - Inside Boundary - inlet pumping station,4,0.0
+Overloaded - Type 3 - Sub-type 5,4,0.0
+B Flooding Internal - damaged,4,0.0
+Equipment Failure - Type 3 - Sub-type 5,4,0.0
+B Flooding Internal - defective benching,4,0.0
+Equipment Failure - Type 2 - Sub-type 1,4,0.0
+D Flooding External - Outside Boundary - sunken,4,0.0
+INSUFFICIENT MAINTENANCE,4,0.0
+D Flooding External - Outside Boundary - defective benching,4,0.0
+D Flooding External - Outside Boundary - screen blinded,3,0.0
+B Flooding Internal - PLC failure,3,0.0
+C Flooding External - Inside Boundary - Inlet blocked,3,0.0
+Non Household Flooding Ext. - Inside Boundary - other,3,0.0
+NHH Flooding Ext. - Inside Boundary - burst,3,0.0
+Pumping Station Failure - Type 2 - Sub-type 1,3,0.0
+NHH Flooding Internal - pump failure,3,0.0
+C Flooding External - Inside Boundary - defective channel,3,0.0
+C Flooding External - Inside Boundary - defective coverslab,3,0.0
+CUSTOMER RESPONSIBLE,3,0.0
+SWS DAMAGE,3,0.0
+C Flooding External - Inside Boundary - nrv failure,3,0.0
+NHH Flooding Ext. - Inside Boundary - Jetting,3,0.0
+Non Household Flooding Internal - inadequate hydraulic capacity,3,0.0
+D Flooding External - Outside Boundary - structural failure,3,0.0
+Collapse due to 3rd party - Type 3 - Sub-type 9,2,0.0
+Blockage due to 3rd party - Type 1 - Sub-type 1,2,0.0
+Equipment failure due to 3rd Party - Type 3 - Sub-type 10,2,0.0
+D Flooding External - Outside Boundary - Seized,2,0.0
+Pumping Station Failure - Type 3 - Sub-type 5,2,0.0
+D Flooding External - Outside Boundary - defective channel,2,0.0
+Collapse - Type 3 - Sub-type 5,2,0.0
+B Flooding Internal - flap missing,2,0.0
+Collapse due to 3rd party - Type 3 - Sub-type 8,2,0.0
+Potential Collapse - Sewer DON'T USE FOR GSS CAUSE,2,0.0
+NHH Flooding Ext. - Outside Boundary - screen blinded,2,0.0
+NHH Flooding Internal - Seized,2,0.0
+Survey required,2,0.0
+Infiltration,2,0.0
+Highway Runoff,2,0.0
+Pump Station Blockage,2,0.0
+Non Household Flooding Ext. - Inside Boundary - Inadequate Capacity,2,0.0
+Non Household Flooding Ext. - Inside Boundary - Other,2,0.0
+D Flooding External - Outside Boundary - missing,2,0.0
+NHH Flooding Ext. - Inside Boundary - filtration sack failure,2,0.0
+NHH Flooding Ext. - Inside Boundary - inlet pumping station,2,0.0
+NHH Flooding Ext. - Inside Boundary - damaged,2,0.0
+B Flooding Internal - seal missing/perished,2,0.0
+NHH Flooding Ext. - Outside Boundary - air valve fault,2,0.0
+NHH Flooding Ext. - Outside Boundary - defective brickwork,2,0.0
+Water Course,2,0.0
+C Flooding External - Inside Boundary - screen failed,2,0.0
+D Flooding External - Outside Boundary - PLC failure,2,0.0
+NHH Flooding Ext. - Outside Boundary - damaged,1,0.0
+Blockage due to 3rd party - Type 3 - Sub-type 9,1,0.0
+D Flooding External - Outside Boundary - siltation,1,0.0
+D Flooding External - Outside Boundary - mechanical failure,1,0.0
+D Flooding External - Outside Boundary - defective coverslab,1,0.0
+D Flooding External - Outside Boundary - filtration sack failure,1,0.0
+Non Household Flooding Ext. - Inside Boundary - damaged,1,0.0
+D Flooding External - Outside Boundary - H2S concrete decay,1,0.0
+C Flooding External - Inside Boundary - PLC failure,1,0.0
+Non Household Flooding Ext. - Inside Boundary - burst,1,0.0
+Non Household Flooding Ext. - Inside Boundary - Jetting,1,0.0
+Non Household Flooding Ext. - Inside Boundary - inlet pumping station,1,0.0
+Non Household Flooding Internal - other,1,0.0
+Non Household Flooding Ext. - Inside Boundary - filtration sack failure,1,0.0
+NHH Flooding Internal - level control failure,1,0.0
+Equipment Failure - Type 1 - Sub-type 2,1,0.0
+NHH Flooding Ext. - Inside Boundary - level control failure,1,0.0
+Collapse due to 3rd party - Type 2 - Sub-type 3,1,0.0
+Collapse due to 3rd party - Type 3 - Sub-type 6,1,0.0
+Equipment failure due to 3rd Party - Type 3 - Sub-type 9,1,0.0
+Equipment failure due to 3rd Party - Type 1 - Sub-type 2,1,0.0
+Equipment Failure - Type 2 - Sub-type 3,1,0.0
+NHH Flooding Ext. - Outside Boundary - level control failure,1,0.0
+Blockage due to 3rd party - Type 2 - Sub-type 3,1,0.0
+NHH Flooding Ext. - Outside Boundary - defective benching,1,0.0
+Blockage due to 3rd party - Type 3 - Sub-type 6,1,0.0
+Equipment failure due to 3rd Party - Type 3 - Sub-type 8,1,0.0
+Pumping Station Failure due to 3rd party - Type 3 - Sub-type 10,1,0.0
+NHH Flooding Ext. - Inside Boundary - air valve fault,1,0.0
+B Flooding Internal - level control failure,1,0.0
+C Flooding External - Inside Boundary - missing,1,0.0
