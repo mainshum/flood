@@ -55,3 +55,7 @@ Hydraulic overload (pump station caused - overflow at pump station  discharge) (
 
 The rationale behind this selection is to have "buckets" that are wide enough to cover majority of incident types and disconnected enough to easily decide which type belongs where. Additionally, these can be subsequently used to assist at deciding what steps should be taken to address and mitigate the most prevalent incident drivers in each region. The outcome of the aggregation - created with help of our domain expert and AI - can be found in `incidents.csv`
 
+### Next steps 
+* map `Incident Type` into broader categories: duplicate/update `process.py` to append a column with a bucket incident type  (low difficulty)
+* map `Location` into coordinates most locations are encoded as postal codes: investigate the best way to map these into coordinates (godlike difficulty) 
+* using mapping `Incident Type` -> `Coordinates` create heatmap of most offending regions 
